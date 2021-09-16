@@ -1,0 +1,54 @@
+<html>
+<head>
+	<title>Politeknik Kampar</title>
+</head>
+<body>
+	<table border="1" width="100%" style="height: 900px">
+		<!-- tr pembungkus -->
+		<!-- th heading baris/kolom -->
+		<!-- td body konten table -->
+		<!-- colspan ="colom" -->
+		<!-- rowspan = baris -->
+		<tr>
+			<th>No</th>
+			<th>Nama</th>
+			<!-- <th>Kelas</th> -->
+		</tr>
+		<tr>
+			<td colspan="2">1</td>
+			<!-- <td>Siapa saja</td> -->
+			<td rowspan="">Kelas A</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Antas</td>
+			<td>Kelas B</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Antas</td>
+			<td>Kelas B</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Antas</td>
+			<td>Kelas B</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Antas</td>
+			<td>Kelas B</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Antas</td>
+			<td>Kelas B</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Antas</td>
+			<td>Kelas B</td>
+		</tr>
+	</table>
+</body>
+</html>
